@@ -1,0 +1,4 @@
+A tag "Code" é usada para definir todas as letras de uma frase para ocupar o
+mesmo tamanho de ocupação!
+A tag "Pre" é usado como se fosse uma tag "br", para arrumar seu codigo em
+linhas seguintes, usada para codigos em python por exemplo!

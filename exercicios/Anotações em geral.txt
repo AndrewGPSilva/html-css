@@ -1,0 +1,42 @@
+hover para passar o mouse por cima de algo;
+exemplo: div:hover (div é o nome do elemento que vou editar)
+==================================================================================================================
+# id
+. classes
+: pseudo-classes
+:: pseudo-elementos
+> children
+==================================================================================================================
+Tem como alterar individualmente os paddings, usando os seguintes comandos:
+padding-top (cima)
+padding-left (esquerda)
+padding-right (direita)
+padding-bottom (baixo)
+==================================================================================================================
+margin: auto = deixar a caixa centralizada
+div= boxlevel
+span= inlinebox
+header= cabeçalho
+main= conteudo
+footer= rodapé
+section= seção
+article= artigo
+Para dar espaço entre um botão e outro, usar a tag margin_right
+box-shadow= colocar sombras internas e externas: 1px 1px 1px black
+border-radius= colocar borda
+==================================================================================================================
+Para inserir videos do youtube, vai em compartilhar, incorporar e copia o codigo html
+abbr = para colocar uma abreviação 
+target="_blank" rel="external"  = para abrir o link em outra aba
+:root = definir uma variavel no css
+colocar ex. --font:
+==================================================================================================================
+min-width= 320px;
+max-width= 800px;
+esses são comandos para responsividade, para imagens ficar dentro da caixa, usar margin= auto
+também da pra usar o comando:
+picture
+     source media= 'max-width=600px'
+/picture
+(isso quer dizer que quando a tela for menor que 600px, vai usar outra imagem menor, que se adapta melhor
+==================================================================================================================

@@ -1,0 +1,7 @@
+Mark = marcar textos (abrir voce mesmo os colchetes)
+Big = letra grande
+Small = letra pequena
+del = letras riscadas ao meio
+ins = letras sublinhadas
+sup = letras ao quadrado 
+sub = letras em baixo

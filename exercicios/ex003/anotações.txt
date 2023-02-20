@@ -1,0 +1,3 @@
+da pra pegar imagens utilizando o link da internet, indo em copiar link da imagem.
+tamanho 200 é interessante.
+para puxar uma imagem dentro um de uma pasta "/imagens"

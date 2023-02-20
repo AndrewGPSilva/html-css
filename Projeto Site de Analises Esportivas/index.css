@@ -1,0 +1,49 @@
+body {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #8F9EEA;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 10px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #5BBE42;
+}
+
+.disputas {
+    display: flex;
+    justify-content: space-around;
+}
+
+.botao {
+    border: #ff0000; 
+    text-align: center;
+    font-size: x-large;
+}
+
+.heading {
+    text-align: center;
+}
+
+.subtitulo {
+    text-align: center;
+}
+
+.subtitulo a:hover {
+    color: #5BBE42;
+}
+
+h3 {
+    color: #202B66;
+}

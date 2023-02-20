@@ -1,0 +1,4 @@
+Tags:
+
+strong = negrito
+EM = italico/ enfase

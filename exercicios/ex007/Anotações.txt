@@ -1,0 +1,3 @@
+Ter cuidado com certas tags, chamadas de obsoletas, 
+elas geralmente ficam na cor vermelha. Isso quer dizer que não 
+é para utilizar!

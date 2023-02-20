@@ -1,0 +1,2 @@
+Para fazer com que a página abra em uma outra guia, utilizar:
+target="_blank" rel="external" 
