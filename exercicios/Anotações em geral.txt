@@ -40,3 +40,5 @@ picture
 /picture
 (isso quer dizer que quando a tela for menor que 600px, vai usar outra imagem menor, que se adapta melhor
 ==================================================================================================================
+para fazer um efeito paralax nas imagens, usar: background-attachment: fixed 
+nth-child(2n) para efeito zebra, uma linha de cada cor

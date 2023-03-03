@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="cadastro.php" method="post"></form>
+        <p>
+            <label for="iest">Selecione o seu estado</label>
+            <select name="est" id="iest">
+                <option value="">----ESCOLHA----</option>
+                <option value="Mg">Minas Gerais</option>
+                <option value="Sp">São Paulo</option>
+                <option value="Rj">Rio de Janeiro</option>
+            </select>
+        </p>
+
+        <label for="ipro">Selecione sua profissão</label>
+        <input type="text" name="pro" id="ipro" list="list">
+        <datalist id="list">
+            <option value="adm">administrador</option>
+            <option value="ped">pedagogo</option>
+            <option value="dev">desenvolvedor</option>
+        </datalist>
+
+        <p>
+            <label for="ienv"></label>
+            <input type="submit" name="env" id="ienv">
+        </p>
+
+        <p>
+            <label for="imsg">Digite uma mensagem de motivação: <br> </label>
+            <textarea name="msg" id="imsg" cols="30" rows="10"></textarea>
+        </p>
+    </form>
+</body>
+</html>

@@ -1,0 +1,2 @@
+0 = sem borda
+1 = com borda

@@ -1,0 +1,3 @@
+Para colocar um lista com opções fixas, usar o select
+Ja para uma lista com sugestões porém com opção de 
+digitar, usar o datalist.
