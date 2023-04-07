@@ -34,11 +34,15 @@ iframe {
 }
 
 div#cabeçalho>h2 {
+    padding-left: 10px;
     text-decoration: none;
     font-style: italic;
+    text-align: left;
 }
 
 div#cabeçalho>h1 {
+    padding-left: 10px;
+    text-align: left;
     text-decoration: none;
     padding: 6px;
     font-style: italic;
@@ -62,14 +66,13 @@ footer>p {
 div#cabeçalho {
     width: 100vw;
     height: 87px;
-    background-color: #4a4b63;
+    background-image: url(imagens/banner.jpg);
     color: white;
     text-align: center;
-    box-shadow: 0px 0px 10px black;
 }
 
 nav {
-    background-color: #4a4b63bd;
+    background-color: #040d16;
     width: 100vw;
     height: 10px;
     padding: 10px;
@@ -113,4 +116,9 @@ footer {
 
 div#divisap {
     padding: 10px;
+}
+
+div#paragrafo {
+    text-align: center;
+    padding: 5px;
 }
